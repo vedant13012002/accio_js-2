@@ -1,0 +1,25 @@
+
+body{
+    background-color: black;
+    color: white;
+    margin: 20px;
+}
+.btn{
+    display: flex;
+    
+    
+}
+button{
+    padding: 15px;
+}
+
+h1{
+    color: white;
+    font-size: bold;
+}
+.middlelayer{
+    text-decoration: underline;
+}
+#error{
+    padding-bottom: 15px;
+}
